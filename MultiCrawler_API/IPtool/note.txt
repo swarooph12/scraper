@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/48480009/run-scrapy-from-flask
